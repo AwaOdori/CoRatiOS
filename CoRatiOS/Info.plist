@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>NotoSansJP-Black.ttf</string>
+		<string>NotoSansJP-Bold.ttf</string>
+		<string>NotoSansJP-ExtraBold.ttf</string>
+		<string>NotoSansJP-ExtraLight.ttf</string>
+		<string>NotoSansJP-Medium.ttf</string>
+		<string>NotoSansJP-Regular.ttf</string>
+		<string>NotoSansJP-SemiBold.ttf</string>
+		<string>NotoSansJP-Thin.ttf</string>
+		<string>SawarabiGothic-Regular.ttf</string>
+		<string>NotoSerifJP-Black.otf</string>
+		<string>NotoSerifJP-Bold.otf</string>
+		<string>NotoSerifJP-ExtraLight.otf</string>
+		<string>NotoSerifJP-Light.otf</string>
+		<string>NotoSerifJP-Medium.otf</string>
+		<string>NotoSerifJP-Regular.otf</string>
+		<string>NotoSerifJP-SemiBold.otf</string>
+		<string>Amita-Bold.ttf</string>
+		<string>Amita-Regular.ttf</string>
+	</array>
+</dict>
+</plist>

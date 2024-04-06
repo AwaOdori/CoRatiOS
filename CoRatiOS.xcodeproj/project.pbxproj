@@ -7,18 +7,79 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5A5E01842BC02F780044B8B9 /* Toolbar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A5E01832BC02F770044B8B9 /* Toolbar.swift */; };
+		5A5E01882BC041D40044B8B9 /* RecordView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A5E01872BC041D40044B8B9 /* RecordView.swift */; };
+		5A5E018C2BC05E890044B8B9 /* AnswerRecordView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A5E018B2BC05E890044B8B9 /* AnswerRecordView.swift */; };
+		5A6404C72B6611B1001B1FDE /* ScanQRview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A6404C62B6611B1001B1FDE /* ScanQRview.swift */; };
+		5A6404C92B6611DA001B1FDE /* CouponListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A6404C82B6611DA001B1FDE /* CouponListView.swift */; };
+		5A6404CB2B66120F001B1FDE /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A6404CA2B66120F001B1FDE /* SettingsView.swift */; };
+		5A6404CD2B661236001B1FDE /* QRScanner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A6404CC2B661236001B1FDE /* QRScanner.swift */; };
+		5A6404CF2B661264001B1FDE /* LoginVIew.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A6404CE2B661264001B1FDE /* LoginVIew.swift */; };
+		5A6404D12B6613B2001B1FDE /* NotoSansJP-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5A6404B82B661059001B1FDE /* NotoSansJP-Light.ttf */; };
+		5A6404D32B6613B2001B1FDE /* NotoSansJP-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5A6404B92B661059001B1FDE /* NotoSansJP-Medium.ttf */; };
+		5A6404D72B6613B2001B1FDE /* SawarabiGothic-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5A6404BC2B66106E001B1FDE /* SawarabiGothic-Regular.ttf */; };
+		5A6404D82B6613B2001B1FDE /* NotoSerifJP-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5A6404C02B66107E001B1FDE /* NotoSerifJP-Regular.otf */; };
+		5A6404DB2B6613B2001B1FDE /* NotoSerifJP-ExtraLight.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5A6404BD2B66107D001B1FDE /* NotoSerifJP-ExtraLight.otf */; };
+		5A6404DC2B6613B2001B1FDE /* NotoSerifJP-SemiBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5A6404C22B66107E001B1FDE /* NotoSerifJP-SemiBold.otf */; };
+		5A6404DD2B6613B2001B1FDE /* NotoSerifJP-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5A6404C12B66107E001B1FDE /* NotoSerifJP-Light.otf */; };
+		5A6404DF2B6613B2001B1FDE /* NotoSerifJP-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5A6404C32B66107F001B1FDE /* NotoSerifJP-Black.otf */; };
+		5A6404E02B6613B2001B1FDE /* NotoSerifJP-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5A6404BF2B66107D001B1FDE /* NotoSerifJP-Bold.otf */; };
+		5A6404E12B6613B2001B1FDE /* NotoSerifJP-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5A6404BE2B66107D001B1FDE /* NotoSerifJP-Medium.otf */; };
+		5A6404E42B66141D001B1FDE /* Amita-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5A6404E22B661415001B1FDE /* Amita-Bold.ttf */; };
+		5A6404E52B66141D001B1FDE /* Amita-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5A6404E32B661415001B1FDE /* Amita-Regular.ttf */; };
+		5A6404F72B661805001B1FDE /* CouponView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A6404F62B661805001B1FDE /* CouponView.swift */; };
+		5A6404F92B661A63001B1FDE /* StoreView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A6404F82B661A63001B1FDE /* StoreView.swift */; };
 		5AA6190E2AC7D7A0007E9DC2 /* CoRatiOSApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AA6190D2AC7D7A0007E9DC2 /* CoRatiOSApp.swift */; };
 		5AA619102AC7D7A0007E9DC2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AA6190F2AC7D7A0007E9DC2 /* ContentView.swift */; };
 		5AA619122AC7D7A2007E9DC2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5AA619112AC7D7A2007E9DC2 /* Assets.xcassets */; };
 		5AA619152AC7D7A2007E9DC2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5AA619142AC7D7A2007E9DC2 /* Preview Assets.xcassets */; };
+		5ABB60EB2B92F7B30097B18D /* SearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ABB60EA2B92F7B30097B18D /* SearchView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5A5E01832BC02F770044B8B9 /* Toolbar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Toolbar.swift; sourceTree = "<group>"; };
+		5A5E01872BC041D40044B8B9 /* RecordView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordView.swift; sourceTree = "<group>"; };
+		5A5E018B2BC05E890044B8B9 /* AnswerRecordView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnswerRecordView.swift; sourceTree = "<group>"; };
+		5A6404B82B661059001B1FDE /* NotoSansJP-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NotoSansJP-Light.ttf"; sourceTree = "<group>"; };
+		5A6404B92B661059001B1FDE /* NotoSansJP-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NotoSansJP-Medium.ttf"; sourceTree = "<group>"; };
+		5A6404BC2B66106E001B1FDE /* SawarabiGothic-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SawarabiGothic-Regular.ttf"; sourceTree = "<group>"; };
+		5A6404BD2B66107D001B1FDE /* NotoSerifJP-ExtraLight.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NotoSerifJP-ExtraLight.otf"; sourceTree = "<group>"; };
+		5A6404BE2B66107D001B1FDE /* NotoSerifJP-Medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NotoSerifJP-Medium.otf"; sourceTree = "<group>"; };
+		5A6404BF2B66107D001B1FDE /* NotoSerifJP-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NotoSerifJP-Bold.otf"; sourceTree = "<group>"; };
+		5A6404C02B66107E001B1FDE /* NotoSerifJP-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NotoSerifJP-Regular.otf"; sourceTree = "<group>"; };
+		5A6404C12B66107E001B1FDE /* NotoSerifJP-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NotoSerifJP-Light.otf"; sourceTree = "<group>"; };
+		5A6404C22B66107E001B1FDE /* NotoSerifJP-SemiBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NotoSerifJP-SemiBold.otf"; sourceTree = "<group>"; };
+		5A6404C32B66107F001B1FDE /* NotoSerifJP-Black.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NotoSerifJP-Black.otf"; sourceTree = "<group>"; };
+		5A6404C62B6611B1001B1FDE /* ScanQRview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScanQRview.swift; sourceTree = "<group>"; };
+		5A6404C82B6611DA001B1FDE /* CouponListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CouponListView.swift; sourceTree = "<group>"; };
+		5A6404CA2B66120F001B1FDE /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		5A6404CC2B661236001B1FDE /* QRScanner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QRScanner.swift; sourceTree = "<group>"; };
+		5A6404CE2B661264001B1FDE /* LoginVIew.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginVIew.swift; sourceTree = "<group>"; };
+		5A6404D02B6612C6001B1FDE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5A6404E22B661415001B1FDE /* Amita-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Amita-Bold.ttf"; sourceTree = "<group>"; };
+		5A6404E32B661415001B1FDE /* Amita-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Amita-Regular.ttf"; sourceTree = "<group>"; };
+		5A6404E82B66153A001B1FDE /* NotoSansJP-ExtraLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NotoSansJP-ExtraLight.ttf"; sourceTree = "<group>"; };
+		5A6404E92B66153A001B1FDE /* NotoSansJP-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NotoSansJP-Bold.ttf"; sourceTree = "<group>"; };
+		5A6404EA2B66153A001B1FDE /* NotoSansJP-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NotoSansJP-Regular.ttf"; sourceTree = "<group>"; };
+		5A6404EB2B66153A001B1FDE /* NotoSansJP-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NotoSansJP-Black.ttf"; sourceTree = "<group>"; };
+		5A6404EC2B66153B001B1FDE /* NotoSansJP-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NotoSansJP-SemiBold.ttf"; sourceTree = "<group>"; };
+		5A6404ED2B66153B001B1FDE /* NotoSansJP-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NotoSansJP-Thin.ttf"; sourceTree = "<group>"; };
+		5A6404EE2B66153C001B1FDE /* NotoSansJP-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NotoSansJP-ExtraBold.ttf"; sourceTree = "<group>"; };
+		5A6404EF2B661545001B1FDE /* NotoSansJP-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "NotoSansJP-Thin.ttf"; path = "../../../../../../Downloads/Noto_Sans_JP/static/NotoSansJP-Thin.ttf"; sourceTree = "<group>"; };
+		5A6404F02B661545001B1FDE /* NotoSansJP-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "NotoSansJP-ExtraBold.ttf"; path = "../../../../../../Downloads/Noto_Sans_JP/static/NotoSansJP-ExtraBold.ttf"; sourceTree = "<group>"; };
+		5A6404F12B661545001B1FDE /* NotoSansJP-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "NotoSansJP-Black.ttf"; path = "../../../../../../Downloads/Noto_Sans_JP/static/NotoSansJP-Black.ttf"; sourceTree = "<group>"; };
+		5A6404F22B661545001B1FDE /* NotoSansJP-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "NotoSansJP-Bold.ttf"; path = "../../../../../../Downloads/Noto_Sans_JP/static/NotoSansJP-Bold.ttf"; sourceTree = "<group>"; };
+		5A6404F32B661545001B1FDE /* NotoSansJP-ExtraLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "NotoSansJP-ExtraLight.ttf"; path = "../../../../../../Downloads/Noto_Sans_JP/static/NotoSansJP-ExtraLight.ttf"; sourceTree = "<group>"; };
+		5A6404F42B661545001B1FDE /* NotoSansJP-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "NotoSansJP-SemiBold.ttf"; path = "../../../../../../Downloads/Noto_Sans_JP/static/NotoSansJP-SemiBold.ttf"; sourceTree = "<group>"; };
+		5A6404F52B661545001B1FDE /* NotoSansJP-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "NotoSansJP-Regular.ttf"; path = "../../../../../../Downloads/Noto_Sans_JP/static/NotoSansJP-Regular.ttf"; sourceTree = "<group>"; };
+		5A6404F62B661805001B1FDE /* CouponView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CouponView.swift; sourceTree = "<group>"; };
+		5A6404F82B661A63001B1FDE /* StoreView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoreView.swift; sourceTree = "<group>"; };
 		5AA6190A2AC7D7A0007E9DC2 /* CoRatiOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoRatiOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5AA6190D2AC7D7A0007E9DC2 /* CoRatiOSApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoRatiOSApp.swift; sourceTree = "<group>"; };
 		5AA6190F2AC7D7A0007E9DC2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5AA619112AC7D7A2007E9DC2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5AA619142AC7D7A2007E9DC2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5ABB60EA2B92F7B30097B18D /* SearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +93,39 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5A6404E72B66150F001B1FDE /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+				5A6404F12B661545001B1FDE /* NotoSansJP-Black.ttf */,
+				5A6404F22B661545001B1FDE /* NotoSansJP-Bold.ttf */,
+				5A6404F02B661545001B1FDE /* NotoSansJP-ExtraBold.ttf */,
+				5A6404F32B661545001B1FDE /* NotoSansJP-ExtraLight.ttf */,
+				5A6404F52B661545001B1FDE /* NotoSansJP-Regular.ttf */,
+				5A6404F42B661545001B1FDE /* NotoSansJP-SemiBold.ttf */,
+				5A6404EF2B661545001B1FDE /* NotoSansJP-Thin.ttf */,
+				5A6404E22B661415001B1FDE /* Amita-Bold.ttf */,
+				5A6404E32B661415001B1FDE /* Amita-Regular.ttf */,
+				5A6404EB2B66153A001B1FDE /* NotoSansJP-Black.ttf */,
+				5A6404E92B66153A001B1FDE /* NotoSansJP-Bold.ttf */,
+				5A6404EE2B66153C001B1FDE /* NotoSansJP-ExtraBold.ttf */,
+				5A6404E82B66153A001B1FDE /* NotoSansJP-ExtraLight.ttf */,
+				5A6404B82B661059001B1FDE /* NotoSansJP-Light.ttf */,
+				5A6404B92B661059001B1FDE /* NotoSansJP-Medium.ttf */,
+				5A6404EA2B66153A001B1FDE /* NotoSansJP-Regular.ttf */,
+				5A6404EC2B66153B001B1FDE /* NotoSansJP-SemiBold.ttf */,
+				5A6404ED2B66153B001B1FDE /* NotoSansJP-Thin.ttf */,
+				5A6404BC2B66106E001B1FDE /* SawarabiGothic-Regular.ttf */,
+				5A6404C32B66107F001B1FDE /* NotoSerifJP-Black.otf */,
+				5A6404BF2B66107D001B1FDE /* NotoSerifJP-Bold.otf */,
+				5A6404BD2B66107D001B1FDE /* NotoSerifJP-ExtraLight.otf */,
+				5A6404C12B66107E001B1FDE /* NotoSerifJP-Light.otf */,
+				5A6404BE2B66107D001B1FDE /* NotoSerifJP-Medium.otf */,
+				5A6404C02B66107E001B1FDE /* NotoSerifJP-Regular.otf */,
+				5A6404C22B66107E001B1FDE /* NotoSerifJP-SemiBold.otf */,
+			);
+			path = "New Group";
+			sourceTree = "<group>";
+		};
 		5AA619012AC7D7A0007E9DC2 = {
 			isa = PBXGroup;
 			children = (
@@ -51,8 +145,21 @@
 		5AA6190C2AC7D7A0007E9DC2 /* CoRatiOS */ = {
 			isa = PBXGroup;
 			children = (
+				5A6404D02B6612C6001B1FDE /* Info.plist */,
 				5AA6190D2AC7D7A0007E9DC2 /* CoRatiOSApp.swift */,
 				5AA6190F2AC7D7A0007E9DC2 /* ContentView.swift */,
+				5A5E01832BC02F770044B8B9 /* Toolbar.swift */,
+				5A6404F62B661805001B1FDE /* CouponView.swift */,
+				5A6404F82B661A63001B1FDE /* StoreView.swift */,
+				5A5E01872BC041D40044B8B9 /* RecordView.swift */,
+				5A5E018B2BC05E890044B8B9 /* AnswerRecordView.swift */,
+				5A6404C62B6611B1001B1FDE /* ScanQRview.swift */,
+				5A6404C82B6611DA001B1FDE /* CouponListView.swift */,
+				5ABB60EA2B92F7B30097B18D /* SearchView.swift */,
+				5A6404CA2B66120F001B1FDE /* SettingsView.swift */,
+				5A6404CC2B661236001B1FDE /* QRScanner.swift */,
+				5A6404CE2B661264001B1FDE /* LoginVIew.swift */,
+				5A6404E72B66150F001B1FDE /* New Group */,
 				5AA619112AC7D7A2007E9DC2 /* Assets.xcassets */,
 				5AA619132AC7D7A2007E9DC2 /* Preview Content */,
 			);
@@ -126,6 +233,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				5AA619152AC7D7A2007E9DC2 /* Preview Assets.xcassets in Resources */,
+				5A6404DF2B6613B2001B1FDE /* NotoSerifJP-Black.otf in Resources */,
+				5A6404DD2B6613B2001B1FDE /* NotoSerifJP-Light.otf in Resources */,
+				5A6404DC2B6613B2001B1FDE /* NotoSerifJP-SemiBold.otf in Resources */,
+				5A6404E12B6613B2001B1FDE /* NotoSerifJP-Medium.otf in Resources */,
+				5A6404E52B66141D001B1FDE /* Amita-Regular.ttf in Resources */,
+				5A6404E42B66141D001B1FDE /* Amita-Bold.ttf in Resources */,
+				5A6404D32B6613B2001B1FDE /* NotoSansJP-Medium.ttf in Resources */,
+				5A6404DB2B6613B2001B1FDE /* NotoSerifJP-ExtraLight.otf in Resources */,
+				5A6404D12B6613B2001B1FDE /* NotoSansJP-Light.ttf in Resources */,
+				5A6404E02B6613B2001B1FDE /* NotoSerifJP-Bold.otf in Resources */,
+				5A6404D82B6613B2001B1FDE /* NotoSerifJP-Regular.otf in Resources */,
+				5A6404D72B6613B2001B1FDE /* SawarabiGothic-Regular.ttf in Resources */,
 				5AA619122AC7D7A2007E9DC2 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -137,7 +256,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5A6404CB2B66120F001B1FDE /* SettingsView.swift in Sources */,
+				5A5E01882BC041D40044B8B9 /* RecordView.swift in Sources */,
+				5A5E01842BC02F780044B8B9 /* Toolbar.swift in Sources */,
+				5A6404C72B6611B1001B1FDE /* ScanQRview.swift in Sources */,
+				5A6404F72B661805001B1FDE /* CouponView.swift in Sources */,
 				5AA619102AC7D7A0007E9DC2 /* ContentView.swift in Sources */,
+				5A6404CD2B661236001B1FDE /* QRScanner.swift in Sources */,
+				5A5E018C2BC05E890044B8B9 /* AnswerRecordView.swift in Sources */,
+				5ABB60EB2B92F7B30097B18D /* SearchView.swift in Sources */,
+				5A6404CF2B661264001B1FDE /* LoginVIew.swift in Sources */,
+				5A6404C92B6611DA001B1FDE /* CouponListView.swift in Sources */,
+				5A6404F92B661A63001B1FDE /* StoreView.swift in Sources */,
 				5AA6190E2AC7D7A0007E9DC2 /* CoRatiOSApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -270,6 +400,7 @@
 				DEVELOPMENT_TEAM = HYKKUGF94R;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = CoRatiOS/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -299,6 +430,7 @@
 				DEVELOPMENT_TEAM = HYKKUGF94R;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = CoRatiOS/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
